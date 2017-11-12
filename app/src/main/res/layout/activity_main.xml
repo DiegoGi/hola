@@ -40,4 +40,12 @@
         android:layout_height="wrap_content"
         android:visibility="visible" />
 
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:text="holaholahola" />
+
 </LinearLayout>
