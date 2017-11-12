@@ -48,4 +48,10 @@
         android:inputType="textPassword"
         android:text="holahoa" />
 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="campo texto nuevo" />
+
 </LinearLayout>
