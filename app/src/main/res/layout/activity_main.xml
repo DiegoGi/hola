@@ -4,6 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="visible"
     tools:context="com.example.root.hola.MainActivity">
 
     <TextView
@@ -30,5 +32,12 @@
         android:text="RadioButton"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="35dp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar2"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible" />
 
 </LinearLayout>
