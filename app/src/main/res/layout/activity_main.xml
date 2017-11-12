@@ -46,6 +46,16 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPassword"
+<<<<<<< HEAD
         android:text="holaholahola" />
+=======
+        android:text="holahoa" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="campo texto nuevo" />
+>>>>>>> prueba
 
 </LinearLayout>
